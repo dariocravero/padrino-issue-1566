@@ -1,0 +1,9 @@
+---
+:orm: none
+:test: none
+:mock: none
+:script: none
+:renderer: none
+:stylesheet: none
+:namespace: Issue1566
+:migration_format: number
